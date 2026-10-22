@@ -1,2 +1,2 @@
-# dollar-crisis-analysis
+# Foreign Currency Analysis Project
 Data analytics project analyzing the currency/dollar crisis, trends, and economic factors.
